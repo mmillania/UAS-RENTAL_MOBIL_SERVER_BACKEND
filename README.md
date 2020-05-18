@@ -1,2 +1,6 @@
 # UAS-RENTAL_MOBIL_SERVER_BACKEND
- Project UAS PWL BACKEND(SERVER) Darin Zahira & Mardhiyah Millania
+# FRAMEWORK CODEIGNITER
+
+## Project UAS PWL BACKEND(SERVER) 
+## 1. Darin Zahira(1841720033) 
+## 2. Mardhiyah Millania (1841720081)
